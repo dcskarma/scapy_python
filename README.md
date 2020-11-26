@@ -1,7 +1,9 @@
 port scanning by using scapy python
 
 usage:
-   install python3
+
+
+1)   install python3
    
    
-  python3 port.py --ip  /*<target ip>  --port   /*<port number>
+ 2)  #### python3 port.py --ip  [target ip]  --port   [ort number]
