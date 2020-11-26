@@ -4,4 +4,4 @@ usage:
    install python3
    
    
-   python3 port.py --ip <target ip> --port <port number>
+  python3 port.py --ip  /*<target ip>  --port   /*<port number>
