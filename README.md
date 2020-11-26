@@ -4,6 +4,7 @@ usage:
 
 
 1)   install python3
+
+2) ### pip3 install scapy   
    
-   
- 2)  #### python3 port.py --ip  [target ip]  --port   [ort number]
+ 2)  #### python3 port.py --ip  [target ip]  --port   [port number]
